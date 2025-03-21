@@ -1,7 +1,7 @@
 I’m currently working in finance and insurance, specializing in the analysis of insurance needs.
 
-👯 I’m looking to collaborate on the effects of exposure to ELF electric and magnetic fields.
-🤔 I’m looking for help with datasets related to finance, insurance, or ELF research.
-💬 Ask me about something interesting!
+👯 I’m interested in collaborating on projects related to finance and insurance, particularly in risk assessment and financial planning.
+🤔 I’m looking for help with datasets related to finance and insurance, including data analytics and market trends.
+💬 Ask me about financial strategies, insurance optimization, or something interesting!
 📫 How to reach me: Discussions on GitHub.
 ⚡ Fun fact: I ate coffee before drinking it! 😊
